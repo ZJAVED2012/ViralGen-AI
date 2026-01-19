@@ -265,7 +265,7 @@ st.markdown("<div style='margin-bottom: 60px;'></div>", unsafe_allow_html=True)
 # Elite Contact Footer - Compact Small Version
 st.markdown(f"""
     <div class="footer">
-        <div class="footer-name">Design & Developed by Mr. Zeeshan Javed</div>
+        <div class="footer-name">Design & Developed by Mr. Zeeshan Javed (AI System Lead Engineer)</div>
         <div class="footer-links">
             <a href="mailto:zeeshan.javed@iub.edu.pk">📧 zeeshan.javed@iub.edu.pk</a>
             <a href="mailto:zeeshanjaved6767@gmail.com">📧 zeeshanjaved6767@gmail.com</a>
